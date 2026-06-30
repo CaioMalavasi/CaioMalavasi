@@ -11,6 +11,9 @@ Me chamo Caio Henrique Malavasi, tenho 18 anos e sou natural de São Paulo. Atua
   
 </div>
 
+<img align="right" width="120" alt="6c137f81-6047-4717-969c-127719a1c396" src="https://github.com/user-attachments/assets/6e484fc6-b123-4a4b-b2ec-6c6460917dcd" />
+
+
 ---
 
 ### 🖥 Linguanges e Tecnologias
