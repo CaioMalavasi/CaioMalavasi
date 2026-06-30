@@ -6,7 +6,7 @@ Me chamo Caio Henrique Malavasi, tenho 18 anos e sou natural de São Paulo. Atua
 
 <div>
 <a href="https://www.instagram.com/c4io_hm04/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blanck"></a>  
-<a href="https://www.instagram.com/c4io_hm04/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blanck"></a>
+<a href="caio.malavasi04@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blanck"></a>
 <a href="https://www.instagram.com/c4io_hm04/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blanck"></a>
   
 </div>
